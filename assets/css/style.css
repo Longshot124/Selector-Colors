@@ -1,0 +1,114 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+} */
+#FirstHead{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 350px 0px;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#FirstHead .FirstUp h1{
+    font-size: 50px;
+} 
+#FirstHead .FirstUp h2{
+    font-size: 30px;
+    padding-bottom: 80px;
+}
+
+#FirstHead .FirstDown a{
+
+    padding: 20px 40px;
+    background-color: #1d809f;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 6px;
+    transition: 1s;
+    font-weight: bold;
+}
+#FirstHead .FirstDown a:hover{
+    background-color: blue;
+    
+}
+#SecondHead{
+     text-align: center; 
+}
+.SecondUp {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#SecondHead .SecondUp a{
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 50px;
+}
+#SecondHead{
+ margin: 200px 0 200px;  
+}
+#SecondHead .SecondFooter a{
+    margin-top: 100px;
+    padding: 25px 40px;
+    background-color: #141e21;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 6px;
+    transition: 1s;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ThirdHead{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 350px 0px;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ThirdHead .ThirdUp a{
+    margin-top: 50px;
+    padding: 20px 40px;
+    background-color: #1d809f;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 6px;
+    transition: 1s;
+    font-weight: bold;
+}
+#FourthHead{
+    
+    /* background-position: center; */
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1d809f;
+    padding: 200px 0px;
+}
+#FourthHead .FourthUp h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+#FourthDown .ClickMe{
+    margin-left: 500px;
+    padding: 20px 40px;
+    background-color: #fff;
+    text-decoration: none;
+    color: #1d809f;
+    border-radius: 6px;
+    transition: 1s;
+    font-weight: bold;
+}
+#FourthDown .LookAtME {
+    margin-left: 200px ;
+    padding: 20px 40px;
+    background-color: rgb(10, 10, 10);
+    text-decoration: none;
+    color: #f5f9fa;
+    border-radius: 6px;
+    transition: 1s;
+    font-weight: bold;
+    
+}
+
